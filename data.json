@@ -1,0 +1,987 @@
+[
+    {
+        "name": "Python-разработчик",
+        "salary": "",
+        "skills": [
+            "Python~3.7",
+            "JavaScript",
+            "CSS",
+            "Linux",
+            "Git",
+            "Bash",
+            "HTML5",
+            "Pandas",
+            "Numpy",
+            "Sklearn",
+            "Mathplotlib",
+            "Django Framework",
+            "MySQL",
+            "PostgreSQL",
+            "MS SQL",
+            "React",
+            "Django restframework"
+        ],
+        "experience": "Опыт работы 1 год 8 месяцев"
+    },
+    {
+        "name": "Python developer",
+        "salary": "",
+        "skills": [
+            "Документальное сопровождение",
+            "Работа с ТМЦ",
+            "Международные контакты",
+            "Закупка товаров и услуг",
+            "Python",
+            "Технический английский",
+            "Linux",
+            "ООП",
+            "Django Framework",
+            "Работа в команде"
+        ],
+        "experience": "Опыт работы 14 лет 9 месяцев"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "280 000 руб.",
+        "skills": [
+            "Python",
+            "Linux",
+            "Git",
+            "Django Framework",
+            "PostgreSQL",
+            "Docker",
+            "DRF",
+            "pytest",
+            "Unit Testing",
+            "Redis",
+            "RabbitMQ",
+            "Celery"
+        ],
+        "experience": "Опыт работы 4 года 4 месяца"
+    },
+    {
+        "name": "Python - разработчик",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Linux",
+            "SQL",
+            "Bash",
+            "Работа в команде",
+            "ООП",
+            "Django Framework",
+            "PyCharm",
+            "Git"
+        ],
+        "experience": "Опыт работы 3 года 1 месяц"
+    },
+    {
+        "name": "Software Engineer / Cyber Security Researcher",
+        "salary": "",
+        "skills": [
+            "Python",
+            "SQL",
+            "Информационная безопасность",
+            "Kibana",
+            "Elastic",
+            "elasticsearch",
+            "Парсеры",
+            "backend",
+            "Автоматизация",
+            "NoSQL",
+            "Git",
+            "PostgreSQL",
+            "MySQL",
+            "API",
+            "Linux",
+            "Работа с большим объемом информации",
+            "Internet",
+            "HTTP",
+            "Http Proxy",
+            "Rabbit"
+        ],
+        "experience": "Опыт работы 2 года 6 месяцев"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "80 000 руб.",
+        "skills": [],
+        "experience": "Опыт работы 10 лет 8 месяцев"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Linux",
+            "HTML5",
+            "SQL",
+            "CSS3",
+            "Git",
+            "SQLite",
+            "Django Framework",
+            "jQuery",
+            "PostgreSQL",
+            "Debian"
+        ],
+        "experience": "Опыт работы 6 лет 10 месяцев"
+    },
+    {
+        "name": "C++, Python backend-developer",
+        "salary": "",
+        "skills": [
+            "ООП",
+            "SQL",
+            "Git",
+            "STL",
+            "C++",
+            "Linux",
+            "Qt",
+            "Boost",
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Django Framework"
+        ],
+        "experience": "Опыт работы 2 месяца"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "",
+        "skills": [
+            "Языки программирования: Python, PL/SQL, Golang",
+            "Python libs: pandas, numpy, matplotlib",
+            "Python frame: FastAPI, Django",
+            "Other: Git, Docker",
+            "DB: Oracle Pl/SQL, PostgreSQL, MySQL"
+        ],
+        "experience": "Опыт работы 1 год 6 месяцев"
+    },
+    {
+        "name": "Python developer",
+        "salary": "100 000 руб.",
+        "skills": [
+            "Ответственность",
+            "Python 3",
+            "HTML, CSS",
+            "JS",
+            "Pandas",
+            "PyTorch",
+            "twisted",
+            "matplotlib",
+            "numpy",
+            "Flask",
+            "tkinter",
+            "PyQt5",
+            "PyGame",
+            "requests",
+            "threads",
+            "SciPy",
+            "DeepLearning",
+            "API",
+            "Interactive Brokers",
+            "SQL",
+            "Английский язык",
+            "ООП",
+            "Работа в команде",
+            "Пунктуальность",
+            "PyTest",
+            "allure",
+            "appium"
+        ],
+        "experience": "Опыт работы 3 года 11 месяцев"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "70 000 руб.",
+        "skills": [
+            "Python",
+            "MySQL",
+            "Git",
+            "HTML",
+            "CSS",
+            "Java",
+            "ООП",
+            "Linux"
+        ],
+        "experience": "Опыт работы 1 год 4 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "Git",
+            "Python",
+            "Алгоритмы и структуры данных",
+            "ООП",
+            "Английский язык",
+            "PostgreSQL",
+            "InfluxDB",
+            "Docker",
+            "Django Framework",
+            "ORM",
+            "SQLAlchemy",
+            "S3"
+        ],
+        "experience": "Опыт работы 2 года"
+    },
+    {
+        "name": "Python Developer",
+        "salary": "70 000 руб.",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Python",
+            "PostgreSQL",
+            "MySQL",
+            "Linux",
+            "Git",
+            "Django Framework",
+            "Django Rest Framework",
+            "Flask",
+            "AWS",
+            "Английский язык",
+            "Docker",
+            "Docker Compose",
+            "FastAPI",
+            "Tortoise ORM"
+        ],
+        "experience": "Опыт работы 1 год 3 месяца"
+    },
+    {
+        "name": "Разработчик Python",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Linux",
+            "Django Framework",
+            "Flask",
+            "PostgreSQL",
+            "MySQL",
+            "SQLAlchemy",
+            "SQLite",
+            "Requests",
+            "Threading",
+            "Celery",
+            "Docker",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Bootstrap",
+            "Git",
+            "GitHub"
+        ],
+        "experience": "Опыт работы 3 года 4 месяца"
+    },
+    {
+        "name": "Python developer",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Django Framework",
+            "REST",
+            "PostgreSQL",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "Ubuntu",
+            "RabbitMQ",
+            "docker-compose",
+            "Celary",
+            "Flask",
+            "Redis"
+        ],
+        "experience": "Опыт работы 9 лет 3 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Flask",
+            "SQL"
+        ],
+        "experience": "Опыт работы 7 месяцев"
+    },
+    {
+        "name": "Разработчик бекэнда (Python/Django)",
+        "salary": "",
+        "skills": [
+            "Django Framework",
+            "Linux",
+            "Git",
+            "CSS",
+            "PostgreSQL",
+            "MySQL",
+            "HTML5",
+            "ООП",
+            "Redis",
+            "Celery",
+            "Python",
+            "Docker",
+            "Unit Testing"
+        ],
+        "experience": "Опыт работы 3 года 5 месяцев"
+    },
+    {
+        "name": "Junior Python Developer",
+        "salary": "",
+        "skills": [
+            "Python",
+            "MySQL",
+            "Django Framework",
+            "API",
+            "Git",
+            "PostgreSQL",
+            "Администрирование серверов Linux",
+            "Linux",
+            "HTML",
+            "CSS",
+            "JSON API",
+            "Vkontakte Api",
+            "Mac Os",
+            "jQuery",
+            "SQL",
+            "ООП",
+            "XML"
+        ],
+        "experience": "Опыт работы 1 год 2 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "200 000 руб.",
+        "skills": [
+            "Python",
+            "ООП",
+            "SQL",
+            "Аналитическое мышление",
+            "GitHub",
+            "HTML",
+            "CSS",
+            "Django Framework",
+            "jQuery"
+        ],
+        "experience": "Опыт работы 18 лет 2 месяца"
+    },
+    {
+        "name": "Full Stack Engineer",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Graphql",
+            "MongoDB",
+            "TypeScript",
+            "Pandas",
+            "JavaScript"
+        ],
+        "experience": "Опыт работы 14 лет 8 месяцев"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "",
+        "skills": [
+            "Python~3.7",
+            "JavaScript",
+            "CSS",
+            "Linux",
+            "Git",
+            "Bash",
+            "HTML5",
+            "Pandas",
+            "Numpy",
+            "Sklearn",
+            "Mathplotlib",
+            "Django Framework",
+            "MySQL",
+            "PostgreSQL",
+            "MS SQL",
+            "React",
+            "Django restframework"
+        ],
+        "experience": "Опыт работы 1 год 8 месяцев"
+    },
+    {
+        "name": "Python developer",
+        "salary": "",
+        "skills": [
+            "Документальное сопровождение",
+            "Работа с ТМЦ",
+            "Международные контакты",
+            "Закупка товаров и услуг",
+            "Python",
+            "Технический английский",
+            "Linux",
+            "ООП",
+            "Django Framework",
+            "Работа в команде"
+        ],
+        "experience": "Опыт работы 14 лет 9 месяцев"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "280 000 руб.",
+        "skills": [
+            "Python",
+            "Linux",
+            "Git",
+            "Django Framework",
+            "PostgreSQL",
+            "Docker",
+            "DRF",
+            "pytest",
+            "Unit Testing",
+            "Redis",
+            "RabbitMQ",
+            "Celery"
+        ],
+        "experience": "Опыт работы 4 года 4 месяца"
+    },
+    {
+        "name": "Python - разработчик",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Linux",
+            "SQL",
+            "Bash",
+            "Работа в команде",
+            "ООП",
+            "Django Framework",
+            "PyCharm",
+            "Git"
+        ],
+        "experience": "Опыт работы 3 года 1 месяц"
+    },
+    {
+        "name": "Software Engineer / Cyber Security Researcher",
+        "salary": "",
+        "skills": [
+            "Python",
+            "SQL",
+            "Информационная безопасность",
+            "Kibana",
+            "Elastic",
+            "elasticsearch",
+            "Парсеры",
+            "backend",
+            "Автоматизация",
+            "NoSQL",
+            "Git",
+            "PostgreSQL",
+            "MySQL",
+            "API",
+            "Linux",
+            "Работа с большим объемом информации",
+            "Internet",
+            "HTTP",
+            "Http Proxy",
+            "Rabbit"
+        ],
+        "experience": "Опыт работы 2 года 6 месяцев"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "80 000 руб.",
+        "skills": [],
+        "experience": "Опыт работы 10 лет 8 месяцев"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Linux",
+            "HTML5",
+            "SQL",
+            "CSS3",
+            "Git",
+            "SQLite",
+            "Django Framework",
+            "jQuery",
+            "PostgreSQL",
+            "Debian"
+        ],
+        "experience": "Опыт работы 6 лет 10 месяцев"
+    },
+    {
+        "name": "C++, Python backend-developer",
+        "salary": "",
+        "skills": [
+            "ООП",
+            "SQL",
+            "Git",
+            "STL",
+            "C++",
+            "Linux",
+            "Qt",
+            "Boost",
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Django Framework"
+        ],
+        "experience": "Опыт работы 2 месяца"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "",
+        "skills": [
+            "Языки программирования: Python, PL/SQL, Golang",
+            "Python libs: pandas, numpy, matplotlib",
+            "Python frame: FastAPI, Django",
+            "Other: Git, Docker",
+            "DB: Oracle Pl/SQL, PostgreSQL, MySQL"
+        ],
+        "experience": "Опыт работы 1 год 6 месяцев"
+    },
+    {
+        "name": "Python developer",
+        "salary": "100 000 руб.",
+        "skills": [
+            "Ответственность",
+            "Python 3",
+            "HTML, CSS",
+            "JS",
+            "Pandas",
+            "PyTorch",
+            "twisted",
+            "matplotlib",
+            "numpy",
+            "Flask",
+            "tkinter",
+            "PyQt5",
+            "PyGame",
+            "requests",
+            "threads",
+            "SciPy",
+            "DeepLearning",
+            "API",
+            "Interactive Brokers",
+            "SQL",
+            "Английский язык",
+            "ООП",
+            "Работа в команде",
+            "Пунктуальность",
+            "PyTest",
+            "allure",
+            "appium"
+        ],
+        "experience": "Опыт работы 3 года 11 месяцев"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "70 000 руб.",
+        "skills": [
+            "Python",
+            "MySQL",
+            "Git",
+            "HTML",
+            "CSS",
+            "Java",
+            "ООП",
+            "Linux"
+        ],
+        "experience": "Опыт работы 1 год 4 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "Git",
+            "Python",
+            "Алгоритмы и структуры данных",
+            "ООП",
+            "Английский язык",
+            "PostgreSQL",
+            "InfluxDB",
+            "Docker",
+            "Django Framework",
+            "ORM",
+            "SQLAlchemy",
+            "S3"
+        ],
+        "experience": "Опыт работы 2 года"
+    },
+    {
+        "name": "Python Developer",
+        "salary": "70 000 руб.",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Python",
+            "PostgreSQL",
+            "MySQL",
+            "Linux",
+            "Git",
+            "Django Framework",
+            "Django Rest Framework",
+            "Flask",
+            "AWS",
+            "Английский язык",
+            "Docker",
+            "Docker Compose",
+            "FastAPI",
+            "Tortoise ORM"
+        ],
+        "experience": "Опыт работы 1 год 3 месяца"
+    },
+    {
+        "name": "Разработчик Python",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Linux",
+            "Django Framework",
+            "Flask",
+            "PostgreSQL",
+            "MySQL",
+            "SQLAlchemy",
+            "SQLite",
+            "Requests",
+            "Threading",
+            "Celery",
+            "Docker",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Bootstrap",
+            "Git",
+            "GitHub"
+        ],
+        "experience": "Опыт работы 3 года 4 месяца"
+    },
+    {
+        "name": "Python developer",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Django Framework",
+            "REST",
+            "PostgreSQL",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "Ubuntu",
+            "RabbitMQ",
+            "docker-compose",
+            "Celary",
+            "Flask",
+            "Redis"
+        ],
+        "experience": "Опыт работы 9 лет 3 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Flask",
+            "SQL"
+        ],
+        "experience": "Опыт работы 7 месяцев"
+    },
+    {
+        "name": "Разработчик бекэнда (Python/Django)",
+        "salary": "",
+        "skills": [
+            "Django Framework",
+            "Linux",
+            "Git",
+            "CSS",
+            "PostgreSQL",
+            "MySQL",
+            "HTML5",
+            "ООП",
+            "Redis",
+            "Celery",
+            "Python",
+            "Docker",
+            "Unit Testing"
+        ],
+        "experience": "Опыт работы 3 года 5 месяцев"
+    },
+    {
+        "name": "Junior Python Developer",
+        "salary": "",
+        "skills": [
+            "Python",
+            "MySQL",
+            "Django Framework",
+            "API",
+            "Git",
+            "PostgreSQL",
+            "Администрирование серверов Linux",
+            "Linux",
+            "HTML",
+            "CSS",
+            "JSON API",
+            "Vkontakte Api",
+            "Mac Os",
+            "jQuery",
+            "SQL",
+            "ООП",
+            "XML"
+        ],
+        "experience": "Опыт работы 1 год 2 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "200 000 руб.",
+        "skills": [
+            "Python",
+            "ООП",
+            "SQL",
+            "Аналитическое мышление",
+            "GitHub",
+            "HTML",
+            "CSS",
+            "Django Framework",
+            "jQuery"
+        ],
+        "experience": "Опыт работы 18 лет 2 месяца"
+    },
+    {
+        "name": "Full Stack Engineer",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Graphql",
+            "MongoDB",
+            "TypeScript",
+            "Pandas",
+            "JavaScript"
+        ],
+        "experience": "Опыт работы 14 лет 8 месяцев"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "",
+        "skills": [
+            "Python~3.7",
+            "JavaScript",
+            "CSS",
+            "Linux",
+            "Git",
+            "Bash",
+            "HTML5",
+            "Pandas",
+            "Numpy",
+            "Sklearn",
+            "Mathplotlib",
+            "Django Framework",
+            "MySQL",
+            "PostgreSQL",
+            "MS SQL",
+            "React",
+            "Django restframework"
+        ],
+        "experience": "Опыт работы 1 год 8 месяцев"
+    },
+    {
+        "name": "Python developer",
+        "salary": "",
+        "skills": [
+            "Документальное сопровождение",
+            "Работа с ТМЦ",
+            "Международные контакты",
+            "Закупка товаров и услуг",
+            "Python",
+            "Технический английский",
+            "Linux",
+            "ООП",
+            "Django Framework",
+            "Работа в команде"
+        ],
+        "experience": "Опыт работы 14 лет 9 месяцев"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "280 000 руб.",
+        "skills": [
+            "Python",
+            "Linux",
+            "Git",
+            "Django Framework",
+            "PostgreSQL",
+            "Docker",
+            "DRF",
+            "pytest",
+            "Unit Testing",
+            "Redis",
+            "RabbitMQ",
+            "Celery"
+        ],
+        "experience": "Опыт работы 4 года 4 месяца"
+    },
+    {
+        "name": "Python - разработчик",
+        "salary": "",
+        "skills": [
+            "Python",
+            "Linux",
+            "SQL",
+            "Bash",
+            "Работа в команде",
+            "ООП",
+            "Django Framework",
+            "PyCharm",
+            "Git"
+        ],
+        "experience": "Опыт работы 3 года 1 месяц"
+    },
+    {
+        "name": "Software Engineer / Cyber Security Researcher",
+        "salary": "",
+        "skills": [
+            "Python",
+            "SQL",
+            "Информационная безопасность",
+            "Kibana",
+            "Elastic",
+            "elasticsearch",
+            "Парсеры",
+            "backend",
+            "Автоматизация",
+            "NoSQL",
+            "Git",
+            "PostgreSQL",
+            "MySQL",
+            "API",
+            "Linux",
+            "Работа с большим объемом информации",
+            "Internet",
+            "HTTP",
+            "Http Proxy",
+            "Rabbit"
+        ],
+        "experience": "Опыт работы 2 года 6 месяцев"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "80 000 руб.",
+        "skills": [],
+        "experience": "Опыт работы 10 лет 8 месяцев"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Linux",
+            "HTML5",
+            "SQL",
+            "CSS3",
+            "Git",
+            "SQLite",
+            "Django Framework",
+            "jQuery",
+            "PostgreSQL",
+            "Debian"
+        ],
+        "experience": "Опыт работы 6 лет 10 месяцев"
+    },
+    {
+        "name": "C++, Python backend-developer",
+        "salary": "",
+        "skills": [
+            "ООП",
+            "SQL",
+            "Git",
+            "STL",
+            "C++",
+            "Linux",
+            "Qt",
+            "Boost",
+            "Python",
+            "FastAPI",
+            "PostgreSQL",
+            "Django Framework"
+        ],
+        "experience": "Опыт работы 2 месяца"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": "",
+        "skills": [
+            "Языки программирования: Python, PL/SQL, Golang",
+            "Python libs: pandas, numpy, matplotlib",
+            "Python frame: FastAPI, Django",
+            "Other: Git, Docker",
+            "DB: Oracle Pl/SQL, PostgreSQL, MySQL"
+        ],
+        "experience": "Опыт работы 1 год 6 месяцев"
+    },
+    {
+        "name": "Python developer",
+        "salary": "100 000 руб.",
+        "skills": [
+            "Ответственность",
+            "Python 3",
+            "HTML, CSS",
+            "JS",
+            "Pandas",
+            "PyTorch",
+            "twisted",
+            "matplotlib",
+            "numpy",
+            "Flask",
+            "tkinter",
+            "PyQt5",
+            "PyGame",
+            "requests",
+            "threads",
+            "SciPy",
+            "DeepLearning",
+            "API",
+            "Interactive Brokers",
+            "SQL",
+            "Английский язык",
+            "ООП",
+            "Работа в команде",
+            "Пунктуальность",
+            "PyTest",
+            "allure",
+            "appium"
+        ],
+        "experience": "Опыт работы 3 года 11 месяцев"
+    },
+    {
+        "name": "Junior Python разработчик",
+        "salary": "70 000 руб.",
+        "skills": [
+            "Python",
+            "MySQL",
+            "Git",
+            "HTML",
+            "CSS",
+            "Java",
+            "ООП",
+            "Linux"
+        ],
+        "experience": "Опыт работы 1 год 4 месяца"
+    },
+    {
+        "name": "Программист Python",
+        "salary": "",
+        "skills": [
+            "Git",
+            "Python",
+            "Алгоритмы и структуры данных",
+            "ООП",
+            "Английский язык",
+            "PostgreSQL",
+            "InfluxDB",
+            "Docker",
+            "Django Framework",
+            "ORM",
+            "SQLAlchemy",
+            "S3"
+        ],
+        "experience": "Опыт работы 2 года"
+    }
+]
